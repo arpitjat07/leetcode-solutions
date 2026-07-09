@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arpitjat07/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0008-string-to-integer-atoi](https://github.com/arpitjat07/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/arpitjat07/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/arpitjat07/leetcode-solutions/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/arpitjat07/leetcode-solutions/tree/master/0091-decode-ways) |
