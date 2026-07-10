@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/arpitjat07/leetcode-solutions/tree/master/0097-interleaving-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arpitjat07/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/arpitjat07/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/arpitjat07/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/arpitjat07/leetcode-solutions/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/arpitjat07/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/arpitjat07/leetcode-solutions/tree/master/0213-house-robber-ii) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/arpitjat07/leetcode-solutions/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/arpitjat07/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/arpitjat07/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/arpitjat07/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/arpitjat07/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/arpitjat07/leetcode-solutions/tree/master/0210-course-schedule-ii) |
@@ -287,12 +289,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/arpitjat07/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/arpitjat07/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/arpitjat07/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/arpitjat07/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/arpitjat07/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/arpitjat07/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/arpitjat07/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/arpitjat07/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 ## Monotonic Stack
