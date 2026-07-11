@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/arpitjat07/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/arpitjat07/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/arpitjat07/leetcode-solutions/tree/master/0220-contains-duplicate-iii) |
+| [0221-maximal-square](https://github.com/arpitjat07/leetcode-solutions/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/arpitjat07/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/arpitjat07/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/arpitjat07/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/arpitjat07/leetcode-solutions/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/arpitjat07/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/arpitjat07/leetcode-solutions/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/arpitjat07/leetcode-solutions/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/arpitjat07/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/arpitjat07/leetcode-solutions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/arpitjat07/leetcode-solutions/tree/master/0322-coin-change) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/arpitjat07/leetcode-solutions/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/arpitjat07/leetcode-solutions/tree/master/0130-surrounded-regions) |
+| [0221-maximal-square](https://github.com/arpitjat07/leetcode-solutions/tree/master/0221-maximal-square) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/arpitjat07/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Depth-First Search
 |  |
