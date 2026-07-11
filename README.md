@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/arpitjat07/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/arpitjat07/leetcode-solutions/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/arpitjat07/leetcode-solutions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/arpitjat07/leetcode-solutions/tree/master/0140-word-break-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/arpitjat07/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arpitjat07/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/arpitjat07/leetcode-solutions/tree/master/0169-majority-element) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/arpitjat07/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/arpitjat07/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/arpitjat07/leetcode-solutions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/arpitjat07/leetcode-solutions/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/arpitjat07/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/arpitjat07/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/arpitjat07/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/arpitjat07/leetcode-solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/arpitjat07/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/arpitjat07/leetcode-solutions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/arpitjat07/leetcode-solutions/tree/master/0140-word-break-ii) |
 | [0242-valid-anagram](https://github.com/arpitjat07/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/arpitjat07/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/arpitjat07/leetcode-solutions/tree/master/0273-integer-to-english-words) |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/arpitjat07/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/arpitjat07/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/arpitjat07/leetcode-solutions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/arpitjat07/leetcode-solutions/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/arpitjat07/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/arpitjat07/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/arpitjat07/leetcode-solutions/tree/master/0221-maximal-square) |
@@ -318,10 +322,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/arpitjat07/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/arpitjat07/leetcode-solutions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/arpitjat07/leetcode-solutions/tree/master/0140-word-break-ii) |
 ## Trie
 |  |
 | ------- |
 | [0139-word-break](https://github.com/arpitjat07/leetcode-solutions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/arpitjat07/leetcode-solutions/tree/master/0140-word-break-ii) |
 | [0692-top-k-frequent-words](https://github.com/arpitjat07/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 ## Prefix Sum
 |  |
@@ -336,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/arpitjat07/leetcode-solutions/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/arpitjat07/leetcode-solutions/tree/master/0093-restore-ip-addresses) |
 | [0126-word-ladder-ii](https://github.com/arpitjat07/leetcode-solutions/tree/master/0126-word-ladder-ii) |
+| [0140-word-break-ii](https://github.com/arpitjat07/leetcode-solutions/tree/master/0140-word-break-ii) |
 | [0257-binary-tree-paths](https://github.com/arpitjat07/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 ## Quickselect
 |  |
