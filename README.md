@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/arpitjat07/leetcode-solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/arpitjat07/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/arpitjat07/leetcode-solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arpitjat07/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/arpitjat07/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/arpitjat07/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/arpitjat07/leetcode-solutions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/arpitjat07/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arpitjat07/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/arpitjat07/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/arpitjat07/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/arpitjat07/leetcode-solutions/tree/master/0134-gas-station) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/arpitjat07/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
