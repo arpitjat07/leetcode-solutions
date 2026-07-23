@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arpitjat07/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/arpitjat07/leetcode-solutions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/arpitjat07/leetcode-solutions/tree/master/0198-house-robber) |
+| [0212-word-search-ii](https://github.com/arpitjat07/leetcode-solutions/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/arpitjat07/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/arpitjat07/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/arpitjat07/leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/arpitjat07/leetcode-solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/arpitjat07/leetcode-solutions/tree/master/0140-word-break-ii) |
 | [0171-excel-sheet-column-number](https://github.com/arpitjat07/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
+| [0212-word-search-ii](https://github.com/arpitjat07/leetcode-solutions/tree/master/0212-word-search-ii) |
 | [0227-basic-calculator-ii](https://github.com/arpitjat07/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/arpitjat07/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/arpitjat07/leetcode-solutions/tree/master/0257-binary-tree-paths) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/arpitjat07/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/arpitjat07/leetcode-solutions/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/arpitjat07/leetcode-solutions/tree/master/0130-surrounded-regions) |
+| [0212-word-search-ii](https://github.com/arpitjat07/leetcode-solutions/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/arpitjat07/leetcode-solutions/tree/master/0221-maximal-square) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/arpitjat07/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Depth-First Search
@@ -376,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/arpitjat07/leetcode-solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/arpitjat07/leetcode-solutions/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/arpitjat07/leetcode-solutions/tree/master/0212-word-search-ii) |
 | [0692-top-k-frequent-words](https://github.com/arpitjat07/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 ## Prefix Sum
 |  |
@@ -392,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/arpitjat07/leetcode-solutions/tree/master/0093-restore-ip-addresses) |
 | [0126-word-ladder-ii](https://github.com/arpitjat07/leetcode-solutions/tree/master/0126-word-ladder-ii) |
 | [0140-word-break-ii](https://github.com/arpitjat07/leetcode-solutions/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/arpitjat07/leetcode-solutions/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/arpitjat07/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 ## Quickselect
 |  |
