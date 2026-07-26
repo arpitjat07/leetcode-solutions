@@ -421,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/arpitjat07/leetcode-solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/arpitjat07/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/arpitjat07/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0461-hamming-distance](https://github.com/arpitjat07/leetcode-solutions/tree/master/0461-hamming-distance) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/arpitjat07/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Doubly-Linked List
 |  |
