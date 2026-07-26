@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/arpitjat07/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/arpitjat07/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0227-basic-calculator-ii](https://github.com/arpitjat07/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
+| [0231-power-of-two](https://github.com/arpitjat07/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/arpitjat07/leetcode-solutions/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/arpitjat07/leetcode-solutions/tree/master/0279-perfect-squares) |
 ## String
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/arpitjat07/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/arpitjat07/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/arpitjat07/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/arpitjat07/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0273-integer-to-english-words](https://github.com/arpitjat07/leetcode-solutions/tree/master/0273-integer-to-english-words) |
 ## Tree
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/arpitjat07/leetcode-solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/arpitjat07/leetcode-solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/arpitjat07/leetcode-solutions/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/arpitjat07/leetcode-solutions/tree/master/0231-power-of-two) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/arpitjat07/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Doubly-Linked List
 |  |
