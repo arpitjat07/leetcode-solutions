@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/arpitjat07/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/arpitjat07/leetcode-solutions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/arpitjat07/leetcode-solutions/tree/master/0322-coin-change) |
+| [0327-count-of-range-sum](https://github.com/arpitjat07/leetcode-solutions/tree/master/0327-count-of-range-sum) |
 | [0347-top-k-frequent-elements](https://github.com/arpitjat07/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/arpitjat07/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/arpitjat07/leetcode-solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/arpitjat07/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/arpitjat07/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/arpitjat07/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0327-count-of-range-sum](https://github.com/arpitjat07/leetcode-solutions/tree/master/0327-count-of-range-sum) |
 | [0347-top-k-frequent-elements](https://github.com/arpitjat07/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/arpitjat07/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arpitjat07/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/arpitjat07/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0327-count-of-range-sum](https://github.com/arpitjat07/leetcode-solutions/tree/master/0327-count-of-range-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/arpitjat07/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/arpitjat07/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/arpitjat07/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/arpitjat07/leetcode-solutions/tree/master/0220-contains-duplicate-iii) |
+| [0327-count-of-range-sum](https://github.com/arpitjat07/leetcode-solutions/tree/master/0327-count-of-range-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -443,4 +447,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/arpitjat07/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/arpitjat07/leetcode-solutions/tree/master/0327-count-of-range-sum) |
+## Segment Tree
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/arpitjat07/leetcode-solutions/tree/master/0327-count-of-range-sum) |
+## Merge Sort
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/arpitjat07/leetcode-solutions/tree/master/0327-count-of-range-sum) |
 <!---LeetCode Topics End-->
