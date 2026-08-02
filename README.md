@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/arpitjat07/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/arpitjat07/leetcode-solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0416-partition-equal-subset-sum](https://github.com/arpitjat07/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/arpitjat07/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0692-top-k-frequent-words](https://github.com/arpitjat07/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0990-satisfiability-of-equality-equations](https://github.com/arpitjat07/leetcode-solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/arpitjat07/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/arpitjat07/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/arpitjat07/leetcode-solutions/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/arpitjat07/leetcode-solutions/tree/master/0279-perfect-squares) |
+| [0486-predict-the-winner](https://github.com/arpitjat07/leetcode-solutions/tree/master/0486-predict-the-winner) |
 ## String
 |  |
 | ------- |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/arpitjat07/leetcode-solutions/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/arpitjat07/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/arpitjat07/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/arpitjat07/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [1143-longest-common-subsequence](https://github.com/arpitjat07/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/arpitjat07/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
@@ -369,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/arpitjat07/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/arpitjat07/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0273-integer-to-english-words](https://github.com/arpitjat07/leetcode-solutions/tree/master/0273-integer-to-english-words) |
+| [0486-predict-the-winner](https://github.com/arpitjat07/leetcode-solutions/tree/master/0486-predict-the-winner) |
 ## Tree
 |  |
 | ------- |
@@ -472,4 +476,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/arpitjat07/leetcode-solutions/tree/master/0332-reconstruct-itinerary) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/arpitjat07/leetcode-solutions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
