@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/arpitjat07/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/arpitjat07/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0692-top-k-frequent-words](https://github.com/arpitjat07/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
+| [0877-stone-game](https://github.com/arpitjat07/leetcode-solutions/tree/master/0877-stone-game) |
 | [0990-satisfiability-of-equality-equations](https://github.com/arpitjat07/leetcode-solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/arpitjat07/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/arpitjat07/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/arpitjat07/leetcode-solutions/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/arpitjat07/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0486-predict-the-winner](https://github.com/arpitjat07/leetcode-solutions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/arpitjat07/leetcode-solutions/tree/master/0877-stone-game) |
 ## String
 |  |
 | ------- |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/arpitjat07/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/arpitjat07/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/arpitjat07/leetcode-solutions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/arpitjat07/leetcode-solutions/tree/master/0877-stone-game) |
 | [1143-longest-common-subsequence](https://github.com/arpitjat07/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/arpitjat07/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
@@ -480,4 +483,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/arpitjat07/leetcode-solutions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/arpitjat07/leetcode-solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
