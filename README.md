@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/arpitjat07/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0877-stone-game](https://github.com/arpitjat07/leetcode-solutions/tree/master/0877-stone-game) |
 | [0990-satisfiability-of-equality-equations](https://github.com/arpitjat07/leetcode-solutions/tree/master/0990-satisfiability-of-equality-equations) |
+| [1140-stone-game-ii](https://github.com/arpitjat07/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/arpitjat07/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/arpitjat07/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/arpitjat07/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/arpitjat07/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0486-predict-the-winner](https://github.com/arpitjat07/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/arpitjat07/leetcode-solutions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/arpitjat07/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/arpitjat07/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/arpitjat07/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/arpitjat07/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/arpitjat07/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/arpitjat07/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/arpitjat07/leetcode-solutions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/arpitjat07/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/arpitjat07/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1406-stone-game-iii](https://github.com/arpitjat07/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/arpitjat07/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -436,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/arpitjat07/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [1140-stone-game-ii](https://github.com/arpitjat07/leetcode-solutions/tree/master/1140-stone-game-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -502,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/arpitjat07/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/arpitjat07/leetcode-solutions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/arpitjat07/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/arpitjat07/leetcode-solutions/tree/master/1406-stone-game-iii) |
 ## Enumeration
 |  |
@@ -511,4 +516,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/arpitjat07/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/arpitjat07/leetcode-solutions/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/arpitjat07/leetcode-solutions/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
